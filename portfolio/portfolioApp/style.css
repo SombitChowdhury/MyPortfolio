@@ -347,12 +347,9 @@ span {
   }
   21%,
   40% {
-    content: "React Developer";
+    content: "Java Developer";
   }
   41%,
-  60% {
-    content: "UI/UX Designer";
-  }
   61%,
   80% {
     content: "Web Developer";
